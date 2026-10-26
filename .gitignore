@@ -1,0 +1,17 @@
+# Compilados
+build/
+dist/
+out/
+*.class
+
+# NetBeans
+nbproject/private/
+nbbuild/
+nbdist/
+
+# IDEs y sistema
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
